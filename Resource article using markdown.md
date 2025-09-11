@@ -8,7 +8,7 @@ Miller's Planet is a fictional water-covered world orbiting near a **supermassiv
 Because it is so close to the black hole, the planet experiences **extreme time dilation** – **1 hour on the planet = 7 years on Earth**.  
 This is due to the intense gravity of Gargantua, which slows down time according to **Einstein’s Theory of Relativity**.
 
-![Miller's Planet]()
+![Miller's Planet](https://github.com/Malappa-2006/Marvel_tasks/blob/main/resource%20article%20image/Screenshot%202025-09-12%20012722.png?raw=true)
 
 ## 🌊 Features of Miller's Planet
 - Entire surface is covered with shallow water.  
