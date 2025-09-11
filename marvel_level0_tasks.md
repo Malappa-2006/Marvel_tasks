@@ -42,7 +42,64 @@ Here is the my git repository [link](https://github.com/UVCE-Marvel/git-task/pul
  **Objective:** Create a website to showcase your portfolio - about yourself, interests, projects, social media profiles and more. It has to be responsive and also pushed to the git repository. CSS can be of your choice and any framework can be used.  
  **Outcomes & Learnings:** I have learnt basic CSS and HTML to create a Portfolio website to show information about myself. I hosted my website on Github to make it accessible to all.  
  [webpage link](https://malappa-2006.github.io/MyPortfolio-website3/)  
- Below is the my Home page of the website  
+ Below is the my Home page of the website    
+ 
  ![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/webpage%20and%20code/Screenshot%202025-09-12%20003554.png?raw=true)  
 
- [Click here to view code](  
+ [Click here to view code](https://github.com/Malappa-2006/Marvel_tasks/blob/4e94c2b873c43698a0289fc929920e83bd36210b/webpage%20and%20code/2index.html)    
+
+ # TASK 6: WRITING RESOURCE ARTICLE USING MARKDOWN LANGUAGE    
+ **Objective:** Write a technical resource article on a topic of your choice and post it on the MARVEL website.  
+ **Learnings and Outcomes:** Here I learnt How to use Markdown Language and understand the importance of it. and also I chose the topic for Resource writing as a Millers Plannet which is shown in the Interstellar Movie and Below is my article.  
+ [Article](https://github.com/Malappa-2006/Marvel_tasks/blob/a1fe28f00cdf0b2466c408f388e4cde025686bd2/Resource%20article%20using%20markdown.md)  
+
+ # TASK 7: TINKERCAD  
+ 
+ **Objective:** The objective of this task was to create a tinkercad account & to make a simple circuit to estimate the distance between the ultrasonic sensor and the object.  
+ 
+ **Outcomes and Learnings:**
+Tinkercad is an online 3D design and modeling tool, used for creating 3D objects, circuits.
+I tinkered a radar system using ultrasonic sensor which displays the distance range.  
+
+![Alt text](https://github.com/Arpit1378/MARVEL-TASKS-/blob/main/Tinkercad-Ultrasonic%20Sensor/photo.jpeg?raw=true)  
+
+# TASK 8: SPEED CONTROL OF DC MOTOR USING L298N DRIVER  
+
+**Objective:** Understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V motor.  
+**Learnings and Outcomes:** Here in this task I Learnt How to control speed of the DC Motor using the concept of PMW that is Pulse with modulation, so here we used the componets including  
+- Arduino uno
+- L298N
+- VRPS (5V)
+- DC Motor
+
+    ![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/Speed%20control%20of%20Dc%20motor/speed%20control.jpg?raw=true)
+
+  [code](https://github.com/Malappa-2006/Marvel_tasks/blob/9a7d1bdc2b3e4fcbe655a00bdeb3b415e514d4c2/Speed%20control%20of%20Dc%20motor/code)
+
+  [link](<iframe width="853" height="480" src="https://www.youtube.com/embed/rWELMoJGiGw" title="Speed control of DC motor " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+
+  # TASK 9: LED TOGGLE USING ESP32
+
+  **Objective:** Learn the working of an ESP32 and create a standalone web server with an ESP32 that controls the LED connected with ESP32 GPIOs.
+
+  **Outcomes and Learnings:** In this task,I used ESP32 microcontroller and 2 LEDs controlled using the same through the Arduino IDE. The first step is to write the required code into the ESP32 microcontroller. Enter the mobile hotspot credentials into the code. Recieve the IP address to control LED state. I pasted the IP address into the browser and toggle the LED using the website.
+  ![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/LED/LED.jpg?raw=true)
+
+  [code](https://github.com/Malappa-2006/Marvel_tasks/blob/9a7d1bdc2b3e4fcbe655a00bdeb3b415e514d4c2/LED/code)
+
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/sEhmsFPUyMU" title="LED TOGGLE USING ESP32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+  # TASK 10:  SOLDERING PREREQUIRITIES
+
+  **Objective:** Learn about the soldering equipment and perform basic soldering on a perf board, for example a LED circuit.
+  
+**Outcomes and Learnings:** I soldered together a simple LED circuit on a perf board. Soldering iron was set at a temperature of around 300 degree Celsius.  
+
+![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/solering/solder.jpg?raw=true)
+  
+
+
+
+
+
+ 
