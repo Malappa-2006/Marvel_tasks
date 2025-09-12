@@ -95,11 +95,120 @@ I tinkered a radar system using ultrasonic sensor which displays the distance ra
   
 **Outcomes and Learnings:** I soldered together a simple LED circuit on a perf board. Soldering iron was set at a temperature of around 300 degree Celsius.  
 
-![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/solering/solder.jpg?raw=true)
+![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/solering/solder.jpg?raw=true)  
+
+# TASK 11: 555 IC ASTABLE MULTI VIBRATOR WITH 60% DUTY CYCLE  
+
+  **Objective:** Design a 555 IC astable multivibrator with 60% duty cycle.  
+
+**Outcomes and Learnings:** I learnt about Integrated Circuits and timer made for electronic circuits using 555 IC. An oscilloscope was used to read the wave form and detect the duty cycle. The duty cycle obtained was 59.44%.
+
+This is the connection that is to be made on the breadboard.
+![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/555%20TIMER/555%20ic%20timer.jpg?raw=true)  
+
+![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/555%20TIMER/duty%20cycle.jpg?raw=true)  
+
+# TASK 12: K-MAP AND DERIVING LOGIVE GATES  
+**Objective:** Determine the Karnaugh map and make a burglar alarm using simple logic circuits. The buzzer or led blinks when certain conditions are met, you can use push buttons for the door and key.  
+
+**Outcomes and Learnings:** The burglar alarm system is an electronic circuit that detect unauthorised entry and rings the alarm.
+This system activates the alarm when the door is open and the key is not pressed. The alarm works on the basis of the following table:
+
+  ![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/K%20map/Screenshot%202025-09-10%20201251.png?raw=true)  
+
   
+ # TASK 13: ACTIVE PARTICIPATION    
+
+ I recently attended the Investment awareness program which is conducted by E-Cell UVCE, and Understood the importance of financial planning and why it is essential to start early.
+Learned about different types of investments such as stocks, mutual funds, bonds, and SIPs. and below is the certification  
+
+![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/participation/certificate.jpg?raw=true)  
 
 
+# TASK 14: DATSHEETS REPORT WRITING  
 
-
-
+ **Objective:** Study the datasheet of L293D motor driver and write a report on it. Specify about the ICs used in L293D, PWM, H-bridge etc.  
+ **Outcomes and Learnings:** I learnt about the L293D motor driver, its specifications, working, etc.  
+ ---
  
+ 
+ # Report on L293D Motor Driver IC
+  ## What is L293D?
+The L293D is a popular motor driver IC used to control the direction and speed of DC motors. It features an H-bridge configuration, allowing for bidirectional control of two motors independently. This IC is widely used in robotics and automation projects due to its ability to interface with low-power microcontrollers and drive high-current motors.
+---
+
+![Alt text](https://github.com/Malappa-2006/Marvel_tasks/blob/main/datasheet/L293D.jpg?raw=true)  
+---
+
+**Specifications**  
+
+- Operating Voltage        : 4.5V to 36V
+- Peak Output Current      : 1.2A per channel
+- Continuous Output Current: 600mA per channel
+- Logic Input Voltage      : 5V (TTL compatible)
+- Enable Pins              : Allow for PWM control of motor speed  
+---
+
+## How Does It Work?
+The L293D has two H-bridges inside. An H-bridge is a circuit that controls which way the motor spins by changing the direction of the current. We can use it to make the motor move forward, backward, or stop.  
+---
+
+
+## What is an H-Bridge?
+An H-bridge is a simple circuit that allows a motor to be driven forward or backward. It consists of four switches (transistors or MOSFETs) that can be controlled to create different voltage polarities across the motor terminals.
+It has four switches (transistors).
+By turning the switches on and off in the right way, you can change the flow of electricity to the motor.
+This controls the motor's direction.  
+---
+
+
+## Controlling Speed: PWM
+PWM stands for Pulse Width Modulation. It's a way to control how much power the motor gets.
+PWM is a technique used to control the speed of a motor by varying the duty cycle of a digital signal. By adjusting the duty cycle, the average voltage and current delivered to the motor can be controlled, thus regulating its speed. By turning the power on and off really quickly:  
+---
+
+
+- If it's on more than off, the motor goes faster.
+- If it's off more than on, the motor slows down.
+- We can send these PWM signals to the L293D from a microcontroller, like Arduino, to control the motor's speed.
+--- 
+## Conclusion:
+The L293D motor driver is a robust and versatile IC that simplifies the control of DC motors.
+Its H-bridge configuration and PWM capability allow for precise control of motor direction and speed, making it an essential component in many electronic and robotic projects.
+
+---
+
+THANK YOU FOR GOING THROUGH MY REPORT  
+---
+
+
+
+
+# TASK 15: INTRODUCTION TO VR  
+
+**Objective:** Familiarize yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed.  
+
+**Outcomes and Learnings:**
+I experienced the VR for the first time in the MARVEL Lab. It was an incredible experience. 
+
+## Here is the information about the VR and AR: 
+---
+
+**Virtual Reality (VR)** is a computer-generated environment with scenes and objects that appears to be real. It makes the user feel they are immersed in their surroundings. We can interact with these surroundings using special controllers.
+---
+
+
+**Augmented Reality (AR)** is the integration of digital information with the user's environment in real time. The key difference between AR and VR is that the VR lets us enter a whole new world and lets us experience it whereas the AR makes us experience the digital information into a user's environment.
+---
+
+## Trends in Space Tech:
+- Space Exploration 
+- Mission Planning
+- Space Safety Training
+- Space Tourism
+  ---
+  
+## THANK YOU FOR READING THIS:)  
+---
+
+
